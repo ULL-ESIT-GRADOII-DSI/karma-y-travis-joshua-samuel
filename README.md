@@ -1,4 +1,4 @@
-# Práctica de Testing Karma y Travis
+# Práctica de Testing Karma y Travis [![Build Status](https://travis-ci.org/Losnen/karma-y-travis-joshua-samuel.svg?branch=master)](https://travis-ci.org/Losnen/karma-y-travis-joshua-samuel)
 
 Este repositorio aloja un conversor de temperaturas y sus correspondientes tests
 
